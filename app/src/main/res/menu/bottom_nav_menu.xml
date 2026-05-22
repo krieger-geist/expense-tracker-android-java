@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Add Expense"
+        android:id="@+id/add"
+        android:icon="@drawable/outline_add_24"/>
+
+        <item
+            android:title="view expenses"
+            android:id="@+id/view"
+            android:icon="@drawable/outline_add_comment_24"/>
+</menu>
